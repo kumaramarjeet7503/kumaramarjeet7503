@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Frontend Development and backened Development**
 
-- 📫 How to reach me **kumarmarjeet001@gmail.com**
+- 📫 How to reach me **kumaramarjeet001@gmail.com**
 
 
 <h3 align="left">Tech Stack:</h3>
