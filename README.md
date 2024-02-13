@@ -42,7 +42,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amarjeet7503" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarjeet" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amarjeet-kumar-5881ab144/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarjeet_kumar" height="30" width="40" /></a>
+<a href="https://twitter.com/amarjeet7503" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarjeet" height="30" width="40" title="twitter"  /></a>
+<a href="https://www.linkedin.com/in/amarjeet-kumar-5881ab144/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linkedin" alt="amarjeet_kumar" height="30" width="40" /></a>
+  <a href="https://leetcode.com/kumaramarjeet001/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="amarjeet_kumar" height="30" width="40" title="leetcode" /></a>
 </p>
 
