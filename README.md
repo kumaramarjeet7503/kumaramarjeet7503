@@ -25,7 +25,7 @@
  
  <!-- Framework -->
    
-- #### Framework:  <a href="https://www.springboot.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="amarjeet" height="30" width="100" /></a>  <a href="https://www.laravel.com" target="_blank"><img align="center" src="https://mallow-tech.com/wp-content/uploads/2023/10/1677780279349.png" alt="amarjeet_kumar" height="60" width="100" /></a>  <a href="https://www.laravel.com" target="_blank"><img align="center" src="https://www.ranosys.com/adobe/dynamicmedia/deliver/dm-aid--11622bf8-8b1b-4a5e-9d8e-8b43ce2c255a/component--6--0.png?preferwebp=true&quality=85" alt="amarjeet_kumar" height="30" width="70" /></a>
+- #### Framework:  <a href="https://www.springboot.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="amarjeet" height="30" width="100" /></a>  <a href="https://www.laravel.com" target="_blank"><img align="center" src="https://mallow-tech.com/wp-content/uploads/2023/10/1677780279349.png" alt="amarjeet_kumar" height="60" width="100" /></a> 
  
  
  <!-- Database -->
